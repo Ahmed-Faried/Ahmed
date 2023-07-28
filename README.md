@@ -25,7 +25,7 @@
 ### Languages
 <div align="center">  
 <!-- Dart icon -->
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/dart-programming-language-icon.png" alt="Dart" height="50" /></a>
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fflutterframework.com%2Finstall-dart-sdk-mac-windows-linux%2F&psig=AOvVaw00L9M9vLbh4xCGYkb9QqmO&ust=1690670012518000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi71N66soADFQAAAAAdAAAAABAF" alt="Dart" height="50" /></a>
 <!-- Flutter icon -->
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png" alt="Flutter" height="50" /></a>
 <!-- C++ icon -->
